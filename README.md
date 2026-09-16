@@ -35,9 +35,21 @@
 
 | Domain | Tech Stack & Tools |
 | :--- | :--- |
-| **GIS & Pemetaan** | `QGIS` • `Web GIS` • `Spatial Data Analysis` • `GeoJSON` |
+| **GIS & Pemetaan** | `QGIS` • `Web GIS` • `Leaflet.js` • `Spatial Data Analysis` |
 | **Pengembangan Web** | `JavaScript` • `HTML5/CSS3` • `Cloudflare Pages` |
 | **Sistem & Workflow** | `Arch Linux` • `Shell/CLI` • `Git` • `Local LLM Integration` |
+
+---
+
+### 🗺️ Leaflet / Web GIS Preview
+
+<div align="center">
+
+[![Leaflet Map Preview](https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1000&q=80)](https://cas-in.nsurbanist.cloud/)
+
+*Klik pratinjau peta di atas untuk menjelajahi Web GIS interaktif penuh di [cas-in.nsurbanist.cloud](https://cas-in.nsurbanist.cloud/)*
+
+</div>
 
 ---
 
