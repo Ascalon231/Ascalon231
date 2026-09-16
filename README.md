@@ -7,9 +7,14 @@
 
 [![Portfolio](https://img.shields.io/badge/LIVE_SITE-nsurbanist.cloud-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nsurbanist.cloud/)
 [![Map Page](https://img.shields.io/badge/MAP_PAGE-cas--in.nsurbanist.cloud-8b5cf6?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://cas-in.nsurbanist.cloud/)
-[![Workspace](https://img.shields.io/badge/WORKSPACE-Personal_Hub-10b981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://personal-hub-42c.pages.dev/)
+[![Cloud App](https://img.shields.io/badge/CLOUDFLARE_APP-ripan.workers.dev-orange?style=for-the-badge&logo=cloudflare&logoColor=white)](https://ripan.nursalam.workers.dev/)
 
 </div>
+
+---
+
+### 🗺️ Background & Expertise
+With a formal academic background in **Urban and Regional Planning (PWK / Perencanaan Wilayah & Kota)**, I possess a solid and comprehensive understanding of spatial data structures, territorial analysis, and regional development workflows. This foundation allows me to bridge the gap between traditional urban planning principles and modern spatial technologies.
 
 ---
 
@@ -33,40 +38,38 @@
 
 | Domain | Tech Stack & Tools |
 | :--- | :--- |
-| **GIS & Mapping** | `QGIS` • `Web GIS` • `Leaflet.js` • `Spatial Data Analysis` |
-| **Web Development** | `JavaScript` • `HTML5/CSS3` • `Cloudflare Pages` |
+| **GIS & Spatial Analysis** | `QGIS` • `Web GIS` • `Leaflet.js` • `Spatial Data Analytics` • `Urban Planning` |
+| **Web Development** | `JavaScript` • `HTML5/CSS3` • `Cloudflare Workers & Pages` |
 | **Systems & Workflow** | `Arch Linux` • `Shell/CLI` • `Git` • `Local LLM Integration` |
 
 ---
 
-### 🗺️ Live Web GIS & Spatial Portals
+### 🚀 Live Spatial & Cloud Apps
 
 <div align="center">
 
-<a href="https://cas-in.nsurbanist.cloud/" target="_blank">
-  <img src="https://img.shields.io/badge/🗺️_LAUNCH_INTERACTIVE_MAP-CAS--IN.NSURBANIST.CLOUD-0ea5e9?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Web GIS Portal" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://nsurbanist.cloud/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-NSURBANIST.CLOUD-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Site" />
+<a href="https://ripan.nursalam.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_LAUNCH_CLOUD_APP-ripan.nursalam.workers.dev-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Worker App" />
 </a>
 
 </div>
 
 ---
 
-### 🚀 Active Projects
+### 📂 Active Projects Overview
 
 ```json
 {
   "projects": [
     {
+      "name": "Cloudflare Worker App",
+      "url": "[https://ripan.nursalam.workers.dev/](https://ripan.nursalam.workers.dev/)",
+      "focus": "Serverless edge applications & deployment"
+    },
+    {
       "name": "NSUrbanist Portfolio",
       "url": "[https://nsurbanist.cloud/](https://nsurbanist.cloud/)",
-      "focus": "Spatial planning, web GIS visualizations & spatial data analytics"
+      "focus": "Spatial planning & web GIS visualizations"
     },
     {
       "name": "CAS-IN Map Platform",
