@@ -1,22 +1,28 @@
-### Halo, Saya [Nama Anda] 👋
+### Halo, Saya Ripan Nursalam 👋
 
-* 🔭 Saya seorang **Web Developer** yang sedang mendalami ekosistem JavaScript & React.
-* 💡 Hobi saya merancang antarmuka web yang bersih dan interaktif.
-* 📫 Cara menghubungi saya: [email@domain.com](mailto:email@domain.com)
+* 🌍 Seorang **Urban Planner & Spatial Data Specialist** yang berfokus pada pemanfaatan teknologi web untuk visualisasi data spasial.
+* 💻 Terbiasa bekerja dengan *minimalist setup*, *Linux environment*, serta mengeksplorasi integrasi sistem dan AI workflow.
+* 🌐 Menjelajahi portofolio proyek pemetaan dan analisis wilayah saya di [nsurbanist.cloud](https://nsurbanist.cloud/).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Keahlian & Teknologi Spasial
 <p>
+  <img src="https://img.shields.io/badge/GIS-%231155cc.svg?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spatial%20Data-Analysis-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 🚀 Proyek Pilihan
+* **[NSUrbanist Portfolio](https://nsurbanist.cloud/)** – Platform portofolio web GIS dan perencanaan spasial interaktif.
+* **[Personal Hub Workspace](https://personal-hub-42c.pages.dev/)** – Ruang kerja digital terpusat yang dikelola secara personal.
+
+---
+
+### 📊 Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB-ANDA&show_icons=true&theme=radical" />
 </p>
