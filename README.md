@@ -8,26 +8,23 @@
 <br/>
 <br/>
 
-<!-- Susunan Ikon Aplikasi Simetris -->
+<!-- App & Tech Stack Icons -->
 <p align="center">
-  <a href="https://nsurbanist.cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_SITE-nsurbanist.cloud-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://cas-in.nsurbanist.cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/🗺️_MAP_PAGE-cas--in.nsurbanist-8b5cf6?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Map Page" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://ripan.nursalam.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_CLOUD_APP-ripan.workers.dev-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud App" />
-  </a>
-  <a href="https://personal-hub-42c.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/💻_WORKSPACE-Personal_Hub-10b981?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Workspace" />
-  </a>
+  <img src="https://img.shields.io/badge/Arch_Linux-%231793d1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Antigravity-20232A?style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/QGIS-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Opencode-0ea5e9?style=for-the-badge" alt="Opencode" />
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge" alt="ArcGIS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hermes_Agent-FF5733?style=for-the-badge" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
+  <img src="https://img.shields.io/badge/Leaflet_JS-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet JS" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
 <br/>
-<hr style="width: 50%;" />
+<hr style="width: 50%; border: 1px solid #30363d;" />
 <br/>
 
 <!-- Aesthetic Background Text -->
