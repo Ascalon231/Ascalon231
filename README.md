@@ -41,13 +41,13 @@
 
 ---
 
-### 🗺️ Leaflet / Web GIS Preview
+### 🗺️ Live Geo-Widget & Web GIS Preview
 
 <div align="center">
 
-[![Leaflet Map Preview](https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1000&q=80)](https://cas-in.nsurbanist.cloud/)
+[![Dynamic Map Widget](https://static-maps.yandex.ru/1.x/?ll=107.445,−7.123&size=650,250&z=11&l=map&lang=en_US)](https://cas-in.nsurbanist.cloud/)
 
-*Klik pratinjau peta di atas untuk menjelajahi Web GIS interaktif penuh di [cas-in.nsurbanist.cloud](https://cas-in.nsurbanist.cloud/)*
+*👆 **Geo-Widget Map:** Peta wilayah interaktif berbasis koordinat spasial. Klik untuk membuka Web GIS penuh di [cas-in.nsurbanist.cloud](https://cas-in.nsurbanist.cloud/)*
 
 </div>
 
