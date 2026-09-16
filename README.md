@@ -1,28 +1,65 @@
-### Halo, Saya Ripan Nursalam 👋
+<div align="center">
 
-* 🌍 Seorang **Urban Planner & Spatial Data Specialist** yang berfokus pada pemanfaatan teknologi web untuk visualisasi data spasial.
-* 💻 Terbiasa bekerja dengan *minimalist setup*, *Linux environment*, serta mengeksplorasi integrasi sistem dan AI workflow.
-* 🌐 Menjelajahi portofolio proyek pemetaan dan analisis wilayah saya di [nsurbanist.cloud](https://nsurbanist.cloud/).
+# 🛰️ SPATIAL CONTROL CENTER | RIPAN NURSALAM
 
----
+**Urban Planner & Spatial Data Specialist**  
+*Navigating spatial analytics, web GIS architecture, and minimalist Linux systems.*
 
-### 🛠️ Keahlian & Teknologi Spasial
-<p>
-  <img src="https://img.shields.io/badge/GIS-%231155cc.svg?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spatial%20Data-Analysis-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<br />
 
----
+[![Portfolio](https://img.shields.io/badge/LIVE_SITE-nsurbanist.cloud-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nsurbanist.cloud/)
+[![Map Page](https://img.shields.io/badge/MAP_PAGE-cas--in.nsurbanist.cloud-8b5cf6?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://cas-in.nsurbanist.cloud/)
+[![Workspace](https://img.shields.io/badge/WORKSPACE-Personal_Hub-10b981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://personal-hub-42c.pages.dev/)
 
-### 🚀 Proyek Pilihan
-* **[NSUrbanist Portfolio](https://nsurbanist.cloud/)** – Platform portofolio web GIS dan perencanaan spasial interaktif.
-* **[Personal Hub Workspace](https://personal-hub-42c.pages.dev/)** – Ruang kerja digital terpusat yang dikelola secara personal.
+</div>
 
 ---
 
-### 📊 Statistik GitHub
+### 🎛️ System Status & Metrics
+
+<div align="center">
+
+| 📊 Activity Overview | ⚡ Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB-ANDA&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-GITHUB-ANDA&layout=compact&theme=dark&hide_border=true" width="350"/> |
+
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB-ANDA&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME-GITHUB-ANDA&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
+
+---
+
+### 🧩 Spatial & Tech Modules
+
+| Domain | Tech Stack & Tools |
+| :--- | :--- |
+| **GIS & Pemetaan** | `QGIS` • `Web GIS` • `Spatial Data Analysis` • `GeoJSON` |
+| **Pengembangan Web** | `JavaScript` • `HTML5/CSS3` • `Cloudflare Pages` |
+| **Sistem & Workflow** | `Arch Linux` • `Shell/CLI` • `Git` • `Local LLM Integration` |
+
+---
+
+### 🚀 Live Spatial & Web Modules
+
+```json
+{
+  "active_projects": [
+    {
+      "name": "NSUrbanist Portfolio",
+      "url": "[https://nsurbanist.cloud/](https://nsurbanist.cloud/)",
+      "focus": "Spatial planning, web GIS visualizations & spatial data analytics"
+    },
+    {
+      "name": "CAS-IN Map Platform",
+      "url": "[https://cas-in.nsurbanist.cloud/](https://cas-in.nsurbanist.cloud/)",
+      "focus": "Interactive single-page spatial mapping"
+    },
+    {
+      "name": "Personal Hub Workspace",
+      "url": "[https://personal-hub-42c.pages.dev/](https://personal-hub-42c.pages.dev/)",
+      "focus": "Centralized digital personal workspace"
+    }
+  ]
+}
