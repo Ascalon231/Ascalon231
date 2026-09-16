@@ -9,18 +9,24 @@
 <br/>
 
 <!-- App & Tech Stack Icons -->
+<!-- Menggunakan Skill-Icons untuk sistem & database -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-%231793d1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Antigravity-20232A?style=for-the-badge" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/QGIS-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/Opencode-0ea5e9?style=for-the-badge" alt="Opencode" />
-  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge" alt="ArcGIS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,sqlite" alt="Skill Icons" />
+  </a>
+</p>
+
+<!-- Menggunakan Shields.io (gaya flat-square kotak) untuk tools GIS & Custom App agar senada -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-20232A?style=flat-square" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/QGIS-%23589632.svg?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Opencode-0ea5e9?style=flat-square" alt="Opencode" />
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=flat-square" alt="ArcGIS" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-FF5733?style=flat-square" alt="Hermes Agent" />
   <br/>
-  <img src="https://img.shields.io/badge/Hermes_Agent-FF5733?style=for-the-badge" alt="Hermes Agent" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
-  <img src="https://img.shields.io/badge/Leaflet_JS-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet JS" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="MS Office" />
+  <img src="https://img.shields.io/badge/Leaflet_JS-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet JS" />
 </p>
 
 <br/>
