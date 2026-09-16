@@ -30,14 +30,33 @@
 </p>
 
 <br/>
-<hr style="width: 50%; border: 1px solid #30363d;" />
+
+<!-- Aesthetic Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600" />
+
+<br/>
 <br/>
 
-<!-- Aesthetic Background Text -->
-<h3>🗺️ Background & Expertise</h3>
+<!-- Visual Metrics & Dashboard (Pure Visuals) -->
 
-> With a formal academic background in **Urban and Regional Planning (PWK / Perencanaan Wilayah & Kota)**, I possess a solid and comprehensive understanding of spatial data structures, territorial analysis, and regional development workflows. 
-> 
-> This foundation allows me to bridge the gap between traditional urban planning principles and modern spatial technologies, giving me a robust proficiency in **GIS**.
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ripan231&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
+</p>
+
+<br/>
+
+<!-- GitHub Stats & Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ripan231&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripan231&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
+</p>
+
+<!-- GitHub Streak (Aktivitas Harian) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripan231&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
+</p>
 
 </div>
